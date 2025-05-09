@@ -1,6 +1,6 @@
 {
   "homepage": "https://Goat3ggs.github.io/hangman-game", 
-  "name": "hangman",
+  "name": "hangman-game",
   "private": true,
   "version": "0.0.0",
   "type": "module",
